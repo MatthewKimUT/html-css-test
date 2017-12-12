@@ -1,0 +1,42 @@
+.navbar {
+  position:fixed;
+  top: 0;
+  width: 100%;
+}
+
+.search {
+  margin-top: 250px;
+  display: grid;
+  align-items: center;
+  justify-content: center;
+}
+
+.buttons {
+  display: block-inline;
+}
+
+#logo{
+  margin-bottom: 50px;
+}
+
+#searchbar{
+  margin-bottom: 25px;
+}
+
+#googleSearch{
+  margin-right: 15px;
+}
+
+.footer {
+  position:fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
